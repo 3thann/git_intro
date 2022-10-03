@@ -1,8 +1,8 @@
 git init
 
-git add file   le nom du fichier
-	*      tout les fichiers sans extensions
-	.      tout les fichiers
+git add file  -> le nom du fichier
+	*         -> tout les fichiers sans extensions
+	.         -> tout les fichiers
 
 git commit -m "{msg}"
 
@@ -19,4 +19,5 @@ git remote add origin {link}
 git push -u origin main
 
 git branch {nom} -> créé une branche
-git checkout {nom}
+git checkout {nom} -> change de branche
+git branch -d {nom} -> supp la branche
