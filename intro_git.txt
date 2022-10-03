@@ -18,13 +18,5 @@ git branch -M main
 git remote add origin {link}
 git push -u origin main
 
-
-
-
-
-
-
-
-
 git branch {nom} -> créé une branche
 git checkout {nom}
