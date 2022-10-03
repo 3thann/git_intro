@@ -1,0 +1,11 @@
+git init
+
+git add file   le nom du fichier
+	*      tout les fichiers sans extensions
+	.      tout les fichiers
+
+git commit -m "{msg}"
+
+git push
+
+(git pull recupérer depuis github)
